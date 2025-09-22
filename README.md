@@ -22,7 +22,8 @@ File: `schema.sql`
 - Includes Primary Keys, Foreign Keys, and AUTO_INCREMENT
 
 ## 🖼️ ER Diagram
-![ER Diagram](ER_Diagram.png)
+![alt text](diagram-1.png)
+
 
 ## 🎯 Key Concepts Practiced
 - DDL (CREATE, PRIMARY KEY, FOREIGN KEY)  
