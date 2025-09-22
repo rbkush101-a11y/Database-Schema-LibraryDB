@@ -12,8 +12,8 @@ Objective: Learn to create databases, tables, and define relationships.
 - **Borrowings** → Junction table for many-to-many relation  
 
 **Relationships:**  
-- A Member can borrow many Books  
-- A Book can be borrowed by many Members  
+- A Member can borrow many Books → One-to-Many
+- A Book can be borrowed by many Members → Many-to-Many (handled with Borrowings table).  
 
 ## 📝 SQL Script
 File: `schema.sql`  
@@ -52,12 +52,9 @@ File: `schema.sql`
 → Visual representation of entities and relationships in DB.
 
 7 Types of Relationships in DBMS?
-
-One-to-One
-
-One-to-Many
-
-Many-to-Many
+→ One-to-One
+  One-to-Many
+  Many-to-Many
 
 8 Purpose of AUTO_INCREMENT?
 → Automatically generates unique sequential IDs.
