@@ -71,4 +71,4 @@ Many-to-Many
 ## 🚀 Tools Used
 - Visual Studio
 - GitHub for version control  
-- dbdiagram.io (for ER diagram)
+- gitdiagram (for ER diagram)
